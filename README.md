@@ -1,10 +1,23 @@
-# ![Rishita Kotiyal header](https://github.com/rishita27/rishita27/blob/46f1a93a46d1d0d702713823726dacc61e580f83/GitIntro.png)
-Here you might be able to find some cool stuff👋
-<!-- Actual text -->
+Hi, I'm Rishita 👋  
 
-You can find me on 👉 <a href="https://www.linkedin.com/in/rishita-kotiyal/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+Backend Engineer with 3+ years of industry experience building and maintaining
+scalable Java-based services.
 
-I am someone who is interested in learning new technologies💡 and their real-time implementation. I am a Masters Student👩‍🎓 at Dalhousie University. A part of me loves learning and sharing my knowledge in a way that's as accessible to the public as possible 📚. I have recently worked on a few projects in Machine Learning and Visual Analytics and will continue to do so in the future ☺️.
-</p>
+🔧 Tech Stack  
+- Java, Spring Boot, REST APIs  
+- PostgreSQL, MySQL  
+- Microservices, Kafka (basic), Redis (basic)  
+- Docker, Git, CI/CD  
 
-For enquiries 🕵️ reach out @ rkotiyal7@gmail.com
+💼 Experience  
+- Worked on production backend systems used by real users  
+- Designed and implemented APIs, database schemas, and business logic  
+- Improved reliability and performance of existing services  
+
+📌 Current Focus  
+- Data Structures & Algorithms (LeetCode)  
+- Backend system design  
+- Writing clean, maintainable production-grade code  
+
+📫 Reach me at: rkotiyal7@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rishita-kotiyal/
