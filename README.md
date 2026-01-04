@@ -1,6 +1,6 @@
 Hi, I'm Rishita 👋  
 
-Backend Engineer with 3+ years of industry experience building and maintaining
+Backend Engineer with 3.5+ years of industry experience building and maintaining
 scalable Java-based services.
 
 🔧 Tech Stack  
@@ -8,6 +8,7 @@ scalable Java-based services.
 - PostgreSQL, MySQL  
 - Microservices, Kafka, Redis
 - Docker, Git, CI/CD  
+- AWS (learning)
 
 💼 Experience  
 - Worked on production backend systems used by real users  
