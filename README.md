@@ -6,7 +6,7 @@ scalable Java-based services.
 🔧 Tech Stack  
 - Java, Spring Boot, REST APIs  
 - PostgreSQL, MySQL  
-- Microservices, Kafka (basic), Redis (basic)  
+- Microservices, Kafka, Redis
 - Docker, Git, CI/CD  
 
 💼 Experience  
